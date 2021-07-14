@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-<h1><b>Hello My friends, i am isuru</b></h2>
-<hr>
-<hr>
-<hr>
+<h1><i>Hello My friends, i am isuru</b></i>
 <hr>
 <hr>
 
