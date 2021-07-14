@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-<font size="100">Hello My friends, i am isuru</font>
+<h1>Hello My friends, i am isuru</h2>
 
 
