@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr  size="5" width="500" color="red">
+<hr color="red">
 <h1>Hello My friends, i am isuru</h1>
 
