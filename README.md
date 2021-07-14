@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-<h1><i>Hello My friends,<br>
+<h1><i>Hello My friends,</h1><br>
 <ul>
-  <li>my hobbu iscoding</li>
+  <li>my hobbu is coding</li>
   <li>i am studing</li>
 </ul>
-  </b></i>
+</i>
 <hr>
 <hr>
 
